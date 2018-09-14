@@ -1,0 +1,4 @@
+backend-app/node_modules
+frontend-app/node_modules
+frontend-app/yarn.lock
+frontend-app/package-lock.json
