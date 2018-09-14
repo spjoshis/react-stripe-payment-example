@@ -1,6 +1,6 @@
 # Stripe Payment Example
 Technologies Used: *Nodejs* and *ReactJs*
 
-# Directory
+# Directories
 --backend-app<br>
 --frontend-app
