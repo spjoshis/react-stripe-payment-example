@@ -7,9 +7,7 @@ const postStripeCharge = res => (stripeErr, stripeRes) => {
     if (stripeErr) {
         res.status(500).send({ error: stripeErr });
     } else {
-
         // perform the DB operations here
-
         res.status(200).send({ success: stripeRes });
     }
 }
